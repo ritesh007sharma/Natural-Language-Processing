@@ -1,0 +1,109 @@
+Seed Words: people persons men women members cristiani terrorists jesuits criminals oqueli 
+
+Unique Words:  3503
+
+Interation:  1
+
+PATTERN POOL
+1. <subj>_ActVp:POS__ARRIVED (1.585)
+2. <subj>_ActVp:POS__SHOT (1.000)
+3. ActVp_<dobj>:POS__KILLED (0.792)
+4. <subj>_ActVp:POS__FORCED (0.667)
+5. Np_Prep_<NP>:POS__ASSASSINATION_OF (0.528)
+6. <subj>_ActVp:POS__DIED (0.500)
+7. Np_Prep_<NP>:POS__MASSACRE_OF (0.500)
+8. <subj>_ActVp:POS__LEFT (0.222)
+9. <subj>_PassVp:POS__KIDNAPPED (0.222)
+10. <subj>_PassVp:POS__KILLED (0.143)
+
+NEW WORDS
+daughter (2.000)
+viera (1.792)
+extremist (1.585)
+ortega (1.585)
+terrorist (1.585)
+torrado (1.585)
+
+Interation:  2
+
+PATTERN POOL
+1. <subj>_ActVp:POS__ARRIVED (1.585)
+2. ActVp_<dobj>:POS__KILLED (1.333)
+3. Np_Prep_<NP>:POS__MASSACRE_OF (1.189)
+4. <subj>_PassVp:POS__KILLED (1.108)
+5. <subj>_ActVp:POS__SHOT (1.000)
+6. Np_Prep_<NP>:POS__ASSASSINATION_OF (0.889)
+7. <subj>_ActVp:POS__FORCED (0.667)
+8. <subj>_ActVp:POS__DIED (0.500)
+9. <subj>_ActVp:POS__LEFT (0.222)
+10. <subj>_PassVp:POS__KIDNAPPED (0.222)
+
+NEW WORDS
+cutiello (1.404)
+gacha (1.404)
+ellacuria (1.161)
+patriotic_union (0.936)
+up (0.936)
+
+Interation:  3
+
+PATTERN POOL
+1. <subj>_PassVp:POS__KILLED (2.373)
+2. ActVp_<dobj>:POS__KILLED (1.935)
+3. <subj>_ActVp:POS__ARRIVED (1.585)
+4. Np_Prep_<NP>:POS__MASSACRE_OF (1.189)
+5. <subj>_ActVp:POS__SHOT (1.000)
+6. Np_Prep_<NP>:POS__ASSASSINATION_OF (0.889)
+7. <subj>_ActVp:POS__FORCED (0.667)
+8. <subj>_ActVp:POS__DIED (0.500)
+9. <subj>_ActVp:POS__LEFT (0.222)
+10. <subj>_PassVp:POS__KIDNAPPED (0.222)
+
+NEW WORDS
+ages (0.792)
+companion (0.774)
+bolivar (0.646)
+subversives (0.637)
+colindres (0.537)
+
+Interation:  4
+
+PATTERN POOL
+1. <subj>_PassVp:POS__KILLED (2.718)
+2. ActVp_<dobj>:POS__KILLED (1.935)
+3. Np_Prep_<NP>:POS__ASSASSINATION_OF (1.723)
+4. <subj>_ActVp:POS__ARRIVED (1.585)
+5. <subj>_PassVp:POS__KIDNAPPED (1.290)
+6. Np_Prep_<NP>:POS__MASSACRE_OF (1.189)
+7. <subj>_ActVp:POS__SHOT (1.000)
+8. <subj>_ActVp:POS__FORCED (0.667)
+9. <subj>_ActVp:POS__DIED (0.500)
+10. Np_Prep_<NP>:POS__GROUP_OF (0.400)
+
+NEW WORDS
+ski (0.792)
+castellar (0.646)
+occupants (0.528)
+peasants (0.512)
+albujar (0.453)
+
+Interation:  5
+
+PATTERN POOL
+1. <subj>_PassVp:POS__KILLED (3.073)
+2. ActVp_<dobj>:POS__KILLED (2.585)
+3. <subj>_PassVp:POS__KIDNAPPED (1.723)
+4. Np_Prep_<NP>:POS__ASSASSINATION_OF (1.723)
+5. <subj>_ActVp:POS__ARRIVED (1.585)
+6. <subj>_ActVp:POS__FORCED (1.585)
+7. <subj>_ActVp:POS__DIED (1.189)
+8. Np_Prep_<NP>:POS__MASSACRE_OF (1.189)
+9. <subj>_ActVp:POS__SHOT (1.000)
+10. Np_Prep_<NP>:POS__GROUP_OF (0.951)
+
+NEW WORDS
+leaders (0.524)
+flores (0.432)
+victims (0.381)
+soldiers (0.320)
+guerrillas (0.277)

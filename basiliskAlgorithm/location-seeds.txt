@@ -1,0 +1,10 @@
+country
+el_salvador
+united_states
+area
+colombia
+city
+town
+nicaragua
+guatemala
+lima

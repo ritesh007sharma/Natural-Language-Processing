@@ -1,0 +1,128 @@
+Seed Words: country el_salvador united_states area colombia city town nicaragua guatemala lima 
+
+Unique Words:  33942
+
+Interation:  1
+
+PATTERN POOL
+1. Np_Prep_<NP>:POS__PREVAILING_IN (1.600)
+2. ActVp_Prep_<NP>:POS__LAUNCHED_THROUGHOUT (1.585)
+3. Np_Prep_<NP>:POS__DEMOCRACY_IN (1.292)
+4. ActVp_Prep_<NP>:POS__CONDEMNED_IN (1.143)
+5. Np_Prep_<NP>:POS__RESIDENTS_IN (1.143)
+6. <subj>_ActVp_Dobj:POS__ASKED_COUNCIL (1.000)
+7. <subj>_ActVp_Dobj:POS__EXPERIENCING_CRISIS (1.000)
+8. ActVp_<dobj>:POS__GRIPPED (1.000)
+9. ActVp_Prep_<NP>:NEG__KNOW_IN (1.000)
+10. ActVp_Prep_<NP>:POS__ACCELERATE_IN (1.000)
+11. ActVp_Prep_<NP>:POS__CENTERS_IN (1.000)
+12. ActVp_Prep_<NP>:POS__DEPORTED_TO (1.000)
+13. ActVp_Prep_<NP>:POS__EXIST_IN (1.000)
+14. ActVp_Prep_<NP>:POS__PREFER_IN (1.000)
+15. ActVp_Prep_<NP>:POS__PROTESTING_IN (1.000)
+16. ActVp_Prep_<NP>:POS__SMUGGLED_INTO (1.000)
+17. ActVp_Prep_<NP>:POS__SPOKE_IN (1.000)
+18. ActVp_Prep_<NP>:POS__SUPPORTS_TO (1.000)
+19. ActVp_Prep_<NP>:POS__SUSPENDS_TO (1.000)
+20. InfVp_Prep_<NP>:POS__BREAK_WITH (1.000)
+21. Np_Prep_<NP>:NEG__TREATY_WITH (1.000)
+22. Np_Prep_<NP>:POS__INTELLECTUALS_OF (1.000)
+23. Np_Prep_<NP>:POS__OQUELI_IN (1.000)
+24. Np_Prep_<NP>:POS__REGIONS_OF (1.000)
+25. Np_Prep_<NP>:POS__STREET_OF (1.000)
+26. Np_Prep_<NP>:POS__TOWERS_OVER (1.000)
+27. Np_Prep_<NP>:POS__TRANSPORTATION_FROM (1.000)
+28. Np_Prep_<NP>:POS__VIEW_IN (1.000)
+29. PassVp_Prep_<NP>:POS__SCATTERED_IN (1.000)
+
+NEW WORDS
+honduran (1.151)
+neighborhoods (0.904)
+sum (0.851)
+bogota (0.829)
+region (0.819)
+
+Interation:  2
+
+PATTERN POOL
+1. Np_Prep_<NP>:POS__RESIDENTS_IN (2.807)
+2. ActVp_Prep_<NP>:POS__CONDEMNED_IN (1.659)
+3. Np_Prep_<NP>:POS__DEMOCRACY_IN (1.638)
+4. Np_Prep_<NP>:POS__PREVAILING_IN (1.600)
+5. ActVp_Prep_<NP>:POS__LAUNCHED_THROUGHOUT (1.585)
+6. PassVp_Prep_<NP>:POS__KIDNAPPED_IN (1.333)
+7. ActVp_Prep_<NP>:POS__HEADQUARTERED_IN (1.189)
+8. ActVp_Prep_<NP>:POS__RESUMED_IN (1.189)
+9. Np_Prep_<NP>:POS__MOVEMENT_IN (1.161)
+10. ActVp_Prep_<NP>:POS__OPERATING_IN (1.034)
+
+NEW WORDS
+huallaga (2.000)
+paulo (1.161)
+miguel (1.104)
+antioquia (1.066)
+san_salvador (0.952)
+
+Interation:  3
+
+PATTERN POOL
+1. Np_Prep_<NP>:POS__RESIDENTS_IN (2.807)
+2. ActVp_Prep_<NP>:POS__HEADQUARTERED_IN (2.000)
+3. ActVp_Prep_<NP>:POS__RESUMED_IN (2.000)
+4. PassVp_Prep_<NP>:POS__KIDNAPPED_IN (1.935)
+5. ActVp_Prep_<NP>:POS__CONDEMNED_IN (1.659)
+6. Np_Prep_<NP>:POS__DEMOCRACY_IN (1.638)
+7. Np_Prep_<NP>:POS__PREVAILING_IN (1.600)
+8. ActVp_Prep_<NP>:POS__LAUNCHED_THROUGHOUT (1.585)
+9. ActVp_Prep_<NP>:POS__OPERATING_IN (1.502)
+10. Np_Prep_<NP>:POS__UNITS_IN (1.333)
+
+NEW WORDS
+ramon (1.461)
+department (1.053)
+manner (1.015)
+triangle (0.955)
+bolivia (0.782)
+
+Interation:  4
+
+PATTERN POOL
+1. Np_Prep_<NP>:POS__RESIDENTS_IN (2.807)
+2. PassVp_Prep_<NP>:POS__KIDNAPPED_IN (2.585)
+3. ActVp_Prep_<NP>:POS__OPERATING_IN (2.264)
+4. ActVp_Prep_<NP>:POS__HEADQUARTERED_IN (2.000)
+5. ActVp_Prep_<NP>:POS__RESUMED_IN (2.000)
+6. Np_Prep_<NP>:POS__UNITS_IN (1.935)
+7. ActVp_Prep_<NP>:POS__CONDEMNED_IN (1.659)
+8. Np_Prep_<NP>:POS__DEMOCRACY_IN (1.638)
+9. Np_Prep_<NP>:POS__DESTRUCTION_IN (1.600)
+10. Np_Prep_<NP>:POS__PREVAILING_IN (1.600)
+
+NEW WORDS
+peru (0.845)
+gomez (0.833)
+america (0.828)
+zone (0.802)
+part (0.777)
+
+Interation:  5
+
+PATTERN POOL
+1. ActVp_Prep_<NP>:POS__OPERATING_IN (3.368)
+2. Np_Prep_<NP>:POS__RESIDENTS_IN (2.807)
+3. PassVp_Prep_<NP>:POS__KIDNAPPED_IN (2.585)
+4. Np_Prep_<NP>:POS__DESTRUCTION_IN (2.322)
+5. ActVp_Prep_<NP>:POS__HEADQUARTERED_IN (2.000)
+6. ActVp_Prep_<NP>:POS__RESUMED_IN (2.000)
+7. Np_Prep_<NP>:POS__UNITS_IN (1.935)
+8. ActVp_Prep_<NP>:POS__CONDEMNED_IN (1.659)
+9. ActVp_Prep_<NP>:POS__HAPPENING_IN (1.659)
+10. Np_Prep_<NP>:POS__DEMOCRACY_IN (1.638)
+11. Np_Prep_<NP>:POS__VIOLENCE_IN (1.638)
+
+NEW WORDS
+medellin (1.332)
+planet (1.292)
+capital (1.290)
+favor (1.150)
+sector (0.795)

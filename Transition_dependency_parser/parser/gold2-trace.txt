@@ -1,0 +1,43 @@
+SENTENCE: I prefer the morning flight through Denver 
+GOLD DEPENDENCIES
+prefer(2) -- nsubj --> I(1)
+ROOT(0) -- root --> prefer(2)
+flight(5) -- det --> the(3)
+flight(5) -- nmod --> morning(4)
+prefer(2) -- dobj --> flight(5)
+Denver(7) -- case --> through(6)
+flight(5) -- nmod --> Denver(7)
+
+
+GENERATING PARSING OPERATORS
+Shift
+Shift
+Generating LeftArc_nsubj to produce relation: prefer(2) -- nsubj --> I(1)
+Shift
+Shift
+Shift
+Generating LeftArc_nmod to produce relation: flight(5) -- nmod --> morning(4)
+Generating LeftArc_det to produce relation: flight(5) -- det --> the(3)
+Shift
+Shift
+Generating LeftArc_case to produce relation: Denver(7) -- case --> through(6)
+Generating RightArc_nmod to produce relation: flight(5) -- nmod --> Denver(7)
+Generating RightArc_dobj to produce relation: prefer(2) -- dobj --> flight(5)
+Generating RightArc_root to produce relation: ROOT(0) -- root --> prefer(2)
+
+
+FINAL OPERATOR SEQUENCE
+Shift
+Shift
+LeftArc_nsubj
+Shift
+Shift
+Shift
+LeftArc_nmod
+LeftArc_det
+Shift
+Shift
+LeftArc_case
+RightArc_nmod
+RightArc_dobj
+RightArc_root
