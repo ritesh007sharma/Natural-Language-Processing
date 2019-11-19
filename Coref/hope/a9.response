@@ -1,0 +1,74 @@
+<COREF ID="X0">F14-CRASHES</COREF>
+{5} {F14-CRASHES}
+{10} {crashes}
+{15} {crash}
+{20} {F14}
+{26} {crashes}
+{31} {He}
+{31} {crash}
+{32} {crashes}
+
+<COREF ID="X1">02-22</COREF>
+{34} {02-22}
+
+<COREF ID="X2">NORTHROP GRUMMAN F-14S</COREF>
+{10} {F-14s}
+{17} {F-14s}
+{18} {F-14s}
+{22} {F-14s}
+{29} {Grumman}
+
+<COREF ID="X3">Bloomberg Business News</COREF>
+{10} {Bloomberg}
+
+<COREF ID="X4">Navy</COREF>
+{12} {Navy}
+{16} {Navy}
+{16} {Navy}
+{17} {Navy}
+{20} {Navy}
+{22} {Navy}
+{26} {Navy}
+{27} {Navy}
+{30} {Navy}
+{31} {Navy}
+
+<COREF ID="X5">three days</COREF>
+{32} {three days}
+{32} {days}
+
+<COREF ID="X6">Persian Gulf</COREF>
+{18} {Persian Gulf}
+{18} {Gulf}
+
+<COREF ID="X7">a 72-hour safety standdown</COREF>
+{18} {standdown}
+{32} {safety}
+
+<COREF ID="X8">Lt. Greg Geisen</COREF>
+{18} {Geisen}
+{27} {Geisen}
+{28} {Geisen}
+{32} {Geisen}
+
+<COREF ID="X9">the F-14</COREF>
+{31} {He}
+
+<COREF ID="X10">14 F-14s on board the USS America</COREF>
+{22} {F-14s}
+{31} {He}
+
+<COREF ID="X11">Pratt @amp; Whitney</COREF>
+
+<COREF ID="X12">F-14 32 crashes since 1991</COREF>
+{31} {He}
+{31} {crash}
+{32} {crashes}
+
+<COREF ID="X13">the mid 1970s</COREF>
+{31} {He}
+
+<COREF ID="X14">Grumman Corp.</COREF>
+
+<COREF ID="X15">Northrop Grumman spokesman John Vosilla</COREF>
+
